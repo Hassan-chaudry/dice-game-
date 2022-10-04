@@ -1,0 +1,188 @@
+.navo4{
+    background-color: gray;
+    width: 100%;
+    float: left;
+ 
+ 
+}
+
+ul li a{
+
+    text-decoration: none;
+    padding: 5px 20px;
+    transition: 0. 6s ease;
+    color:red;
+    font-size: 15px;
+    font-weight: 900;
+    font-size: small;
+
+}
+ul li a:hover{
+
+    color:black;
+    background-color: white;
+
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0%;
+    z-index: 10;
+}
+.navbar{
+    background:gainsboro!important;
+    
+}
+.navbar-brand{
+    font-weight: bold;
+    color:blueviolet!important;
+ 
+}
+#SERVICES{
+    background-color: aliceblue;
+  
+    padding: 50px;
+}
+.title{
+    padding: 40px;
+}
+.txt{
+    padding-top: 30px;
+}
+.txt2{
+    padding-top: 35px;
+}
+.title::before
+{
+content: "" ;
+background:purple;
+width: 200px;
+margin-left: auto;
+display: block;
+height: 5px;
+ margin-right: auto; 
+ transform: translateY(63px);
+
+}
+.title::after
+{
+content: "" ;
+background:purple;
+width: 50px;
+margin-left: auto;
+display: block;
+height: 10px;
+ margin-right: auto; 
+ margin-bottom: 40px;
+ transform: translateY(8px);
+
+}
+#SERVICES .btn-primary
+{
+box-shadow: none;
+padding: 8px 25px ;
+border: none;
+border-radius: 20px;
+background-color: purple;
+margin-top: 10px;
+}
+
+
+
+#ABOUTUS
+{
+background: gainsboro;
+ padding-bottom: 50px;
+  padding-top: 50px;
+}
+.about-title
+{
+font-size: 40px;
+font-weight: 600; margin-top: 8%;
+}
+#about-us ul li
+{
+margin: 10px 0;
+}
+.img-fluid{
+    margin-top: 90px!important;
+    margin-left: 50px;
+    height: 200px;
+
+}
+#about-us ul{
+    margin-left: 30px;
+}
+
+
+
+#TESTIMONIALS{
+
+margin: 0px 0;
+
+}
+
+.testimonials{
+
+border-left: 4px solid #7b1798;
+ margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+ .testimonials img
+
+{
+
+height: 70px;
+
+width: 70px;
+
+border-radius: 50%
+
+}
+.user-details
+{
+    display: inline-block;
+    font-size: 17px;
+}
+#TESTIMONIALS{
+    background-color:whitesmoke;
+}
+
+#social-media{
+    background-color: whitesmoke;
+    padding: 100px 0;
+
+} 
+#social-media p{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img {
+    width: 70px;
+    transition: 0.5s;
+    padding: 8px;
+}
+.social-icons a:hover img
+{
+    transform: translateY(-20px);
+}
+#CONTACT{
+    background-color:lightcyan;
+
+}
+.footer-copyright{
+    background-color: gray;
+}
+.buttonss{
+    margin-bottom: 50px;
+    margin-left:450px ;
+    margin-top: 50px;
+}
+.spn{
+    background-color:aliceblue;
+}
+.footer-copyright{
+    color: white!important;
+}

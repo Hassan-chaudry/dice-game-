@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.headercontrol{
+    background-color: #193572;
+    width: 100%;
+    height: 70px;
+}
+#main {
+   color: white;
+   font-size: 50px;
+   float: left;
+   margin-top: 10px;
+   position: relative;
+   left: 150px;
+   font-family: monospace;
+}
+.login{
+    float: right;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-right: 70px;
+    height: 15px;
+   
+}
+.text{
+    width: 180px;
+    height: 20px;
+    margin-left: 15px;
+}
+.btn{
+    background-color:blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 05px,05px,05px;
+    border: none;
+    border-radius: 03px;
+    margin-left: 20px;
+    font-family: monospace;
+}
+.content{
+    width: 980px;
+    height: 1000px;
+    margin-top: auto;
+}
+.left{
+    position: relative;
+    left: 120px;
+    margin-top: 50px;
+    font-size: 22px;
+    float: left;
+}
+.right{
+    float: right;
+    position: relative;
+left:180px ;
+padding: 20px;
+margin: 20px auto
+
+
+}
+.ipt{
+    width: 335px;
+    height: 30px;
+}
+.iut{
+    height: 30px;
+}
+input{
+    padding: 5px 5px;
+    margin: 0 0 20px;
+    
+}
+.btn2{
+    background-color: green;
+    color: white;
+    padding:5px 40px;
+}
+
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+      function getMilk(money, costPerBottel) {
+        console.log("leaveHouse");
+        console.log("leaveHouse");  
+        console.log("leaveHouse"); 
+        console.log("leaveHouse"); 
+        console.log("leaveHouse"); 
+        console.log("leaveHouse");
+        console.log("leaveHouse");
+        
+   console.log("buy" + calcBottles(money, costPerBottel) + " bottles of milk");
+
+        console.log("leaveHouse");
+        console.log("leaveHouse");  
+        console.log("leaveHouse"); 
+        console.log("leaveHouse"); 
+        console.log("leaveHouse"); 
+        console.log("leaveHouse");
+        console.log("leaveHouse"); 
+
+      
+        return calcChange(money, costPerBottel);
+      }
+   
+
+    function calcBottles(stratingMoney, costPerBottel) {
+        var numberOfBottles = Math.floor(stratingMoney /costPerBottle);
+        return numberOfBottles;
+    }
+
+    function calcChange(stratingAmount, costPerBottle){
+        var change = stratingAmount % costPerBottle;
+        return change;
+    }
+
+    console.log("hello master , here  is your " + getMilk(10, 3) + "change.");
+
+
+</script>
+
+</body>
+</html>

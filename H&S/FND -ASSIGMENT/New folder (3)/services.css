@@ -1,0 +1,259 @@
+.rightsec{
+    float: right;
+    text-align: right;
+    width: 50%;
+}
+.logo{
+    margin-left: 20px;
+width: 30%;
+    float: left
+}
+.firstpara{
+    color: blue;
+    font-size: 22px;
+}
+
+.fa{
+    display: inline-block;
+    margin: 20px;
+}
+.btnl{
+    background-color: rgb(18, 18, 240);
+    color: white;
+}
+.logox{
+    margin: 0.10px;
+}
+.icons{
+    margin: 10px ;
+}
+.mainhead{
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+.navo{
+    background-color: darkblue;
+    width: 30%;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    padding-bottom: 18px;
+}
+.navo1{
+    position: relative;
+    top: 5px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+.navo4{
+    background-color: gray;
+    width: 70%;
+    float: right;
+}
+
+ul{
+    float: left;
+    list-style: none;
+    
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+
+    text-decoration: none;
+    padding: 10px 45px;
+    transition: 0. 6s ease;
+    color: white;
+    font-size: 17px;
+    position: relative;
+    bottom: 2px;
+   
+}
+ul li a:hover{
+    background-color:blue;
+    color: white;
+
+}
+.kit2{
+    background-color: white;
+    text-align: center;
+}
+.kit{
+    width: 90%;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    margin-top: 20px;
+    float: left;
+}
+.kit1{
+    width: 27%;
+    display: inline-block;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+#ktf{
+    background-color: blue;
+    padding-left: 4px;
+    color: white;
+}
+.x2{
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+}
+
+.kpl{
+    padding-top: 150px;
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    background-color: yellow;
+}
+.f1{
+    background-color: blue;
+    width: 100%;
+    font-size: 30px;  
+    color: white;
+    display: inline-block;
+}
+.f4{
+    float: right;
+margin-right: 180px;
+}
+.f3{
+    margin-left: 240px;
+}
+.f11{
+    background-color: grey;
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.f9{
+    width: 33%;
+    display: inline-block;
+    background-color: grey;
+    vertical-align: top;
+
+}
+.f8{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.f5main{
+    width: 100%;
+    background-color: grey;
+
+}
+.f8 img{
+    width: 25%;
+    display: inline-block;
+}
+.s6{
+    font-size: 20px;
+    color: white;
+}
+.s7{
+    font-size: 10px;
+}
+.f6{
+    margin-left: 70px;
+}
+.f7{
+    margin-left: 70px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+.col{
+    color: blue;
+    font-size: 10px;
+}
+.ab{
+    color: white;
+}
+.ba{
+    font-size: 10px;
+    margin-left: 150px
+
+;
+}
+.numb{
+    color: blue;
+    font-size: 15px;
+    margin-left: 150px;
+}
+.numbh{
+color: white;
+font-size: 12px;
+margin-left: 150px;
+margin-top: 20px;
+}
+.info{
+    color: white;
+    margin-left: 150px;
+    
+
+}
+.f9mini2{
+    margin-bottom: 50px;
+}
+.icons2{
+    display: inline;
+    margin-left: 150px;
+}
+.f2{
+    margin-left: 70px;
+}
+.icons2 .fa {
+    margin: 10px;
+}
+
+
+.logcar{
+    background-color: white;
+    width: 100%;
+    float: left;
+}
+.z1{
+    font-size: 20px;
+    margin-left: 240px;
+
+}
+.z2{
+    float: right;
+    margin-right: 220px;
+}
+.z3{
+    padding: 10px;
+    margin-left: 230px;
+    display: inline-block;
+}
+.last3{
+    float: left;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.last15{
+    font-size: 20px;
+}
+
